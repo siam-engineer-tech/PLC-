@@ -41,4 +41,4 @@ Power flows through all safety features (E-Stop, Overload, Stop) before reaching
 
 ### Plc code download link:
 Here is given the download ling:
-[Download PLC Code](./../Circuit%20Diagram/ladder%20code/Motor%20On%20%20&%20OFF%20with%20signal%20lamps.lld)
+[Download PLC Code](../Circuit%20Diagram/ladder%20code/Motor%20On%20%20&%20OFF%20with%20signal%20lamps.lld)
