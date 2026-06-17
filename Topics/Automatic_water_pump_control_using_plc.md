@@ -6,8 +6,7 @@ This repository contains the complete project for automating a water pump contro
 
 Below is the circuit diagram for the water pump control system:
 
-![Water Pump Control Circuit](https://github.com/siam-engineer-tech/PLC-/blob/main/Images/automatic%20water%20pump%20using%20plc.png)
-
+![automatic water pump](./../Images/automatic%20water%20pump%20using%20plc.png)
 
 ## PLC Ladder Diagram
 
