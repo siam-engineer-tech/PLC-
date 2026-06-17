@@ -128,12 +128,12 @@ The PLC continuously scans all inputs, executes the ladder logic program, and up
 
 Below is the circuit diagram for the motor On and off  using PLC control system:
 
-![automatic water pump](../Images/motor_on_off.png)
+![automatic water pump]( ../Images/motor_on_off.png)
 
 # Ladder Diagram
 
 Download the Ladder diagram:
-[Automatic motor On off system](../Circuit%20Diagram/ladder%20code/Motor%20On%20%20&%20OFF%20with%20signal%20lamps.lld)
+[Automatic motor On off system]( ../Circuit%20Diagram/ladder%20code/Motor%20On%20%20&%20OFF%20with%20signal%20lamps.lld)
 
 # Applications
 
