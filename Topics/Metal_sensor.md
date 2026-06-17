@@ -102,9 +102,8 @@ The PLC continuously scans the input devices, executes the ladder logic program,
 
 Download the Ladder Diagram:
 
-```text
 [Metal Detection System](../Circuit%20Diagram/ladder%20code/Metal%20sensor%20using%20PLC.lld)
-```
+
 
 ---
 
